@@ -1,62 +1,62 @@
 <p align="center">
 	<img width="200" height="200" margin-right="100%" src="https://raw.githubusercontent.com/Mortennn/Dozer/master/Stuff/AppIcon.png">
 </p>
-<p align="center">Hide menu bar icons to give your Mac a cleaner look.</p>
+<p align="center">隐藏菜单栏图标，让您的 Mac 看起来更整洁。</p>
 <p align="center">
 	<a href="https://github.com/Mortennn/Dozer/releases/latest">
- 		<img src="https://img.shields.io/badge/download-latest-brightgreen.svg" alt="download">
+ 		<img src="https://img.shields.io/badge/download-latest-brightgreen.svg" alt="下载">
 	<a href="https://img.shields.io/badge/platform-macOS-lightgrey.svg">
- 		<img src="https://img.shields.io/badge/platform-macOS-lightgrey.svg" alt="platform">
+ 		<img src="https://img.shields.io/badge/platform-macOS-lightgrey.svg" alt="平台">
 	</a>
 	<a href="https://img.shields.io/badge/requirements-macOS High Sierra+-ff69b4.svg">
- 		<img src="https://img.shields.io/badge/requirements-macOS High Sierra+-lightgrey.svg" alt="systemrequirements">
+ 		<img src="https://img.shields.io/badge/requirements-macOS High Sierra+-lightgrey.svg" alt="系统要求">
 	</a>
 	<a href="https://github.com/sindresorhus/swiftlint-sindre">
  		<img src="https://img.shields.io/badge/SwiftLint-Sindre-hotpink.svg" alt="swiftlint">
 	</a>
 	<a href="https://opensource.org/licenses/MPL-2.0">
- 		<img src="https://img.shields.io/badge/License-MPL%202.0-orange.svg" alt="license">
+ 		<img src="https://img.shields.io/badge/License-MPL%202.0-orange.svg" alt="许可证">
 	</a>
 </p>
 <p align="center">
-	<img height="100" min-width="100" src="https://github.com/Mortennn/Dozer/raw/master/Stuff/demo.gif" alt="demo">
+	<img height="100" min-width="100" src="https://github.com/Mortennn/Dozer/raw/master/Stuff/demo.gif" alt="演示">
 </p>
 
 <p align="center"></p>
-<a href="https://www.buymeacoffee.com/mortennn" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+<a href="https://www.buymeacoffee.com/mortennn" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="请我喝咖啡" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
-## ⚙️ Install
-Using [Homebrew Cask](https://formulae.brew.sh/cask/dozer):
+## ⚙️ 安装
+使用 [Homebrew Cask](https://formulae.brew.sh/cask/dozer):
 ```shell
 brew install --cask dozer
 ```
 
-Manual:
+手动安装：
 
-[Download](https://github.com/Mortennn/Dozer/releases/latest), open and drag the app to the Applications folder.
+[下载](https://github.com/Mortennn/Dozer/releases/latest)，打开并将应用程序拖到应用程序文件夹中。
 
-## ⚫️ Dozer Icons
+## ⚫️ Dozer 图标
 
-There are 2 or 3, numbered from right to left:
+有 2 或 3 个图标，从右到左编号：
 
-1. this can be positioned anywhere you prefer, it is only a point of interaction
-2. this and everything to its left will be hidden/shown by clicking any Dozer icon
-3. (Optional) the "remove" icon and everything to its left will be hidden/shown by option-clicking any Dozer icon
+1. 这个图标可以放在任何您喜欢的位置，它只是一个交互点
+2. 点击任意 Dozer 图标时，这个图标及其左侧的所有图标都会被隐藏/显示
+3. （可选）按住 Option 键点击任意 Dozer 图标时，"移除"图标及其左侧的所有图标都会被隐藏/显示
 
-## 👨‍💻 Usage
+## 👨‍💻 使用方法
 
-* Move the icons you want to hide until clicked to the left of the second Dozer icon
-* Move the icons you want to hide until option-clicked to the left of the third Dozer icon
+* 将您想要点击时才显示的图标移到第二个 Dozer 图标的左侧
+* 将您想要按住 Option 键点击时才显示的图标移到第三个 Dozer 图标的左侧
 
-**N.B. hold command (`⌘`) then drag to move the menu bar icons.**
+**注意：按住 command 键（`⌘`）然后拖动来移动菜单栏图标。**
 
-## 👇 Interactions
-* Left-click one of the Dozer icons to hide/show the first group of menu bar icons
-* Option-Left-click one of the Dozer icons to show the second group of menu bar icons (optional)
-* Right-click one of the Dozer icons to open the settings
+## 👇 交互方式
+* 左键点击任意 Dozer 图标可以隐藏/显示第一组菜单栏图标
+* Option + 左键点击任意 Dozer 图标可以显示第二组菜单栏图标（可选）
+* 右键点击任意 Dozer 图标可以打开设置
 
-<!-- GIF is commented out until it is redone -->
-<!-- **Checkout [this GIF](https://raw.githubusercontent.com/Mortennn/Dozer/master/Stuff/demo.gif) to watch Dozer in action.** -->
+<!-- GIF 暂时被注释掉，直到重新制作 -->
+<!-- **查看[这个 GIF](https://raw.githubusercontent.com/Mortennn/Dozer/master/Stuff/demo.gif) 可以看到 Dozer 的实际效果。** -->
 
-## 📄 Requirements
+## 📄 系统要求
 macOS 10.13+
